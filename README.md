@@ -22,7 +22,7 @@ buildSrc should be preferred over script plugins as it is easier to maintain, re
 * Copy [buildSrc](/buildSrc) folder into your project root folder.
 * Sych the project.
 * And you're ready to use this in your projects.
-* for ref just look [demo](/buildSrc/demo_build.gradle.kts)
+* for ref just look [demo](/buildSrc/demo_build.gradle.kts.txt)
 
 
 
